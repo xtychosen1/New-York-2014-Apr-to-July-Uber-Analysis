@@ -1,5 +1,5 @@
 # New-York-2014-Apr-to-July-Uber-Analysis
-This repository features a robust Tableau dashboard that offers an in-depth analysis of e-commerce sales data for the years 2016 and 2017. The dashboard delivers a comprehensive view of key metrics, including sales trends, profit trajectories, product performance, and market dynamics. Designed to empower stakeholders, it facilitates data-driven decision-making and the fine-tuning of business strategies.
+This repository houses a sophisticated Tableau dashboard designed to deliver detailed insights into the factors affecting the volume of Uber pickups in New York City from April to July 2014. Tailored to aid both prospective Uber drivers and Uber corporate, this analytic tool aims to maximize their potential earnings and operational efficiencies.
 ## Tableau Workbook
 The Tableau workbook file is included in the repository. Users can directly open the workbook in Tableau to explore the dashboard and customize it according to their specific requirements.A ppt version is also included to view final dashboard.
 
